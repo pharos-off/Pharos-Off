@@ -8,10 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+profil+GitHub+!;Développeur+en+apprentissage;Passionné+d'informatique;Toujours+en+train+d'apprendre+🚀" alt="Typing SVG"/>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pharos-Off&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=pharos-off&color=blue&style=for-the-badge)
 
-[![GitHub followers](https://img.shields.io/github/followers/Pharos-Off?style=for-the-badge)](https://github.com/Pharos-Off)
-[![GitHub Stars](https://img.shields.io/github/stars/Pharos-Off?style=for-the-badge)](https://github.com/Pharos-Off)
+[![GitHub followers](https://img.shields.io/github/followers/pharos-off?style=for-the-badge)](https://github.com/pharos-off)
+[![GitHub Stars](https://img.shields.io/github/stars/pharos-off?style=for-the-badge)](https://github.com/pharos-off)
 
 </div>
 
@@ -54,9 +54,9 @@ J'aime créer des projets utiles, expérimenter de nouvelles idées et apprendre
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pharos-Off&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pharos-off&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pharos-Off&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pharos-off&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -66,7 +66,7 @@ J'aime créer des projets utiles, expérimenter de nouvelles idées et apprendre
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Pharos-Off&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=pharos-off&theme=tokyonight"/>
 
 </p>
 
@@ -76,7 +76,7 @@ J'aime créer des projets utiles, expérimenter de nouvelles idées et apprendre
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pharos-Off&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pharos-off&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
 
@@ -86,7 +86,7 @@ J'aime créer des projets utiles, expérimenter de nouvelles idées et apprendre
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pharos-Off&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pharos-off&theme=tokyo-night"/>
 
 </p>
 
@@ -142,7 +142,7 @@ J'aime créer des projets utiles, expérimenter de nouvelles idées et apprendre
 
 <p align="center">
 
-<a href="https://github.com/Pharos-Off">
+<a href="https://github.com/pharos-off">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
