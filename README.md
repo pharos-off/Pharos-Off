@@ -5,7 +5,7 @@
 ### 💻 Développeur passionné • 🎮 Gamer • ✈️ Simmer Flight Simulator
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+profil+GitHub+!;Développeur+en+apprentissage;Passionné+d'informatique;Toujours+en+train+d'apprendre+🚀" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+profil+GitHub+!;Developpeur+en+apprentissage;Passionne+d'informatique;Toujours+en+train+d'apprendre" alt="Typing SVG"/>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pharos-off&color=blue&style=for-the-badge)
