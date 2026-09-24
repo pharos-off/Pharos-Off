@@ -106,7 +106,7 @@ J'aime créer des projets utiles, expérimenter de nouvelles idées et apprendre
 
 | Projet | Description | Statut |
 |---------|-------------|--------|
-| Velkora-Client | Lanceur Minecraft personnalisé sans API ni publicité | 🟢 Terminé (mais toujours en dev' car bug / version à ajouté !) |
+| ~~Velkora-Client~~ | ~~Lanceur Minecraft personnalisé sans API ni publicité~~ | ~~🔴 Arrêt total du développement du launcher~~ |
 | FileFlow | Un gestionnaire de fichier avec interface WEB | 🟢 Terminé |
 
 ---
